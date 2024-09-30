@@ -329,6 +329,10 @@ margin: 0 auto;
         grid-template-columns: repeat(2, 1fr);
         width: 100vw;
     }
+     .card{
+        width: 11rem ;
+        height: 15rem ;
+    }
 
     .exclusive-content{
         display: flex;
